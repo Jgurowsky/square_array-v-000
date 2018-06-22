@@ -1,4 +1,4 @@
-array = [2,4,3]
+array = [2,3,4]
 
 def square_array(array)
 
